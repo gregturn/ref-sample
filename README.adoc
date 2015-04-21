@@ -8,10 +8,8 @@ tags: []
 
 This tiny sample guide contains a PDF!
 
+image::http://blog.greglturnquist.com/wp-content/uploads/2014/05/platform-spring-boot.png[link="https://github.com/gregturn/ref-sample/blob/master/spring-boot-reference.pdf"]
+
 https://github.com/gregturn/ref-sample/blob/master/spring-boot-reference.pdf[Spring Boot PDF]
 
 https://github.com/gregturn/ref-sample/raw/master/spring-boot-reference.pdf[Spring Boot PDF download]
-
-image::https://github.com/gregturn/ref-sample/blob/master/spring-boot-reference.pdf[Spring Boot PDF]
-
-image::https://github.com/gregturn/ref-sample/raw/master/spring-boot-reference.pdf[Spring Boot PDF download]
