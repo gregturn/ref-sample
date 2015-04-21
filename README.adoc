@@ -8,5 +8,4 @@ tags: []
 
 This tiny sample guide contains a PDF!
 
-image:spring-boot-reference.pdf[]
-
+https://github.com/gregturn/ref-sample/blob/master/spring-boot-reference.pdf[Spring Boot PDF]
