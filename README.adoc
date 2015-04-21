@@ -1,0 +1,12 @@
+---
+tags: []
+---
+:toc:
+:icons: font
+:source-highlighter: prettify
+:project_id: ref-sample
+
+This tiny sample guide contains a PDF!
+
+image:spring-boot-reference.pdf[]
+
